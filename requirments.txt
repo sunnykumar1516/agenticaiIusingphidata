@@ -1,0 +1,6 @@
+groq
+phidata
+youtube_transcript_api
+openai
+python-dotenv
+gradio
